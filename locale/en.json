@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar widget order",
+    "description": "Reorders the widgets in the sidebar footer with up and down arrows. The order is saved in this browser and applied immediately."
+  }
+}

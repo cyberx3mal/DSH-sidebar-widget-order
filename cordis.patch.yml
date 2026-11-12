@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-widget-order
+      name: '@local/sidebar-widget-order'
